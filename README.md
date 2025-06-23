@@ -5,5 +5,9 @@ Triple-negative breast cancer (TNBC) is a particularly aggressive and complex su
 Auth:
 
 Msc. Juan Sebastian Malagón Torres - https://co.linkedin.com/in/juan-sebastian-malagón-torres-86039a164
+
+
 Phd. Fabio Gonzalez Osorio - http://www.hermes.unal.edu.co/pages/Docentes/Docente.jsf?u=fagonzalezo
+
+
 Phd. Angel Cruz Roa - https://sites.google.com/site/aacruzr/
